@@ -1,3 +1,3 @@
 # My first repo
 
-An asipiring web developer
+An aspiring web developer. Files on GitHub change, and so do your local files.
